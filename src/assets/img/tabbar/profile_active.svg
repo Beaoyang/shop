@@ -1,0 +1,20 @@
+<svg id="我的" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="54" viewBox="0 0 54 54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d8d8d8;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fd704a"/>
+      <stop offset="1" stop-color="#e74545"/>
+    </linearGradient>
+  </defs>
+  <rect id="矩形_23" data-name="矩形 23" class="cls-1" width="54" height="54"/>
+  <path id="路径_161" data-name="路径 161" class="cls-2" d="M134.591,87.235l.016-.776c3.706-2.577,5.507-7.123,5.507-13.854,0-6.49-4.076-10.364-10.909-10.364h-.37c-6.825,0-10.909,3.873-10.909,10.364,0,6.7,1.817,11.244,5.555,13.837v.784c-6.223.833-12.461,3.3-12.461,7.067,0,5.274,6.054,7.947,18,7.947s18-2.673,18-7.947c0-3.762-6.222-6.227-12.429-7.059Z" transform="translate(-102.02 -55.241)"/>
+</svg>
