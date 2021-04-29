@@ -13,7 +13,7 @@
 <style scoped>
   #tab-bar {
     display: flex;
-    background-color: #f3f5f7;
+    background-color: #fafafa;
 
     position: fixed;
     left: 0;
